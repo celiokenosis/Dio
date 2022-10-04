@@ -1,0 +1,6 @@
+teste de leitura de arquivo em Java
+teste de leitura de arquivo em Java
+teste de leitura de arquivo em Java
+teste de leitura de arquivo em Java
+
+Parece que funcionou a leitura!
